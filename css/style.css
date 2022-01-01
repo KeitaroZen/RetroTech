@@ -1,0 +1,168 @@
+.ui.tabular.menu {
+  border-radius: 0em;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: none;
+  background-color:#0066ff;
+  border-bottom: 1px solid #1ad1ff;
+  
+}
+
+
+.ui.tabular.menu .active.item {
+    font-family: Helvetica , Arial;
+    color: black;
+    font-weight:bold;
+	background-color: #00ccff;
+}
+
+.ui.tabular.menu .item {
+    font-family: Helvetica,  Arial;
+    color: white;
+    font-weight:bold;
+	background-color:#0066ff;
+}
+
+.ui.tabular.menu .item:hover {
+    background-color:Black;
+    color:white;
+    border-color: white;
+}
+
+.HomeIntro{
+	font-size:30px;
+	text-decoration:underline;
+}
+
+.HomePara{
+	font-family: Times New Roman, Garamond;
+	font-size:16px;
+}
+
+.ui.container{
+	
+	 background-color:#00ccff;
+	
+}
+
+.HomeBody{
+	  background-image:url(../images/retrogamesneon.jpg);
+	  background-color:purple;
+	
+}
+
+.ui.grid{
+background-color: #a4508b;
+background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+color:white;
+border:solid white 2px;
+padding:1em;
+margin-top:1em; 
+}
+
+.ui.cards {
+  padding:5em;
+  
+}
+
+.ConsolesBody{
+	  background-image:url(../images/gamecontrollers.jpg);
+	  background-color:purple;
+}
+
+.ui.feed > .event > .content .extra.text {
+  padding: 0em;
+  border-left: none;
+  font-size: 1em;
+  max-width: 500px;
+  line-height: 1.4285em;
+  color:white;
+}
+
+
+.ui.feed > .event > .content .summary > .date {
+  display: inline-block;
+  float: none;
+  font-weight: normal;
+  font-size: 0.85714286em;
+  font-style: normal;
+  margin: 0em 0em 0em 0.5em;
+  padding: 0em;
+  color: white;
+}
+
+.ui.feed > .event > .content .user {
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 0em;
+  vertical-align: baseline;
+  color:yellow;
+}
+  
+  .ui.striped.table > tr:nth-child(2n),
+    .ui.striped.table tbody tr:nth-child(2n) {
+      background-color: rgba(3,3,3, .3);
+	  color:white;
+    }
+.GameBody{
+	  background-image:url(../images/gameboxartwallpaper.jpg);
+	  background-color:purple;
+}
+
+.HistoryBody{
+	  background-image:url(../images/gamehistory2.jpg);
+	  background-color:purple;
+}
+
+
+
+#more1 {
+  display: none;
+  margin-top: 1em; 
+  
+}
+
+#more2 {
+  display: none;
+  margin-top: 1em;    
+}
+
+#more3 {
+  display: none;
+  margin-top: 1em;    
+}
+
+span{
+	color:white;
+}
+
+#btn1{
+  background-color:gray;
+  color: white;
+  font-size: 16px;
+}
+
+.top10PS1{
+  background-color:gray;
+  color: white;
+  font-size: 16px;
+}
+
+#btn2{
+  background-color:black;
+  color: white;
+  font-size: 16px;
+}
+
+#btn3{
+  background-color:black;
+  color: white;
+  font-size: 16px;
+}
+
+#btn4{
+  background-color:green;
+  color: white;
+  font-size: 16px;
+}
+
